@@ -18,5 +18,12 @@
       "email": "2771717608@qq.com"
     }
   ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "DeathSatan\\TencentMapApi\\ServiceProvider"
+      ]
+    }
+  },
   "minimum-stability": "dev"
 }
