@@ -1,22 +1,22 @@
 {
-    "name": "death_satan/tencent-map-api",
-    "description": "腾讯地图api sdk封装 tencent map services api,based on GuzzleHttp",
-    "type": "library",
-    "require": {
-        "guzzlehttp/guzzle": "7.4.x-dev",
-        "ext-json": "*"
-    },
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "DeathSatan\\TencentMapApi\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "ShuSRun",
-            "email": "2771717608@qq.com"
-        }
-    ],
-    "minimum-stability": "dev"
+  "name": "xuanchen/tencent-map-api",
+  "description": "腾讯地图api sdk封装 tencent map services api,based on GuzzleHttp",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "^7.0.0",
+    "ext-json": "*"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "DeathSatan\\TencentMapApi\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "ShuSRun",
+      "email": "2771717608@qq.com"
+    }
+  ],
+  "minimum-stability": "dev"
 }
